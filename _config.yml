@@ -96,8 +96,8 @@ members:
     
 # Clients information. Shown on Home and About pages.
 clients:
-  - name: dribbble
-    img: client01.png
+  #- name: dribbble
+  #  img: client01.png
   - name: Code is Poetry
     img: client02.png
   - name: Vimeo
